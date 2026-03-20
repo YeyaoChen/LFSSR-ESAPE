@@ -1,6 +1,6 @@
 # LFSSR-ESAPE
 
-This is the PyTorch implementation of explicit spatial-angular pattern embedding for heterogeneous imaging-oriented light field spatial super-resolution
+This is the PyTorch implementation of explicit spatial-angular pattern embedding for heterogeneous imaging-oriented light field spatial super-resolution.
 
 # Usage
 You can use the released code to train or test your own model.
