@@ -4,6 +4,14 @@ This is the PyTorch implementation of “Explicit Spatial-Angular Pattern Embedd
 
 # Usage
 You can use the released code to train or test your own model.
-1. run 'train.py' to train your own model
-2. run 'test.py' to test the trained model
+For 8× SR
+1. run './8×/train.py' to train your own model
+2. run './8×/test.py' to test the trained model
+
+
+For 4× SR
+1. run './4×/train.py' to train your own model
+2. run './4×/test.py' to test the trained model
+
+The pre-trained model (8× and 4x) can be downloaded from xxx.
 
